@@ -1,3 +1,4 @@
+//prgramm from Steven Prata's book "Programming language C++"
 #include <iostream>
 #include <string>
 #include <vector>
